@@ -1,2 +1,1 @@
-# javascriptFeatures
-Javascript features
+# modern javascript features
